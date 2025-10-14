@@ -1,5 +1,5 @@
 # 💫Hello! [![](https://visitcount.itsvg.in/api?id=znrfrnz&icon=0&color=0)](https://visitcount.itsvg.in)
- I'm Franz, a first-year Bachelor of Science in Information Technology student from PUP - Manila. Nice to meet you all!
+ I'm Franz, a second-year Bachelor of Science in Information Technology student from PUP - Manila. Nice to meet you all!
 
 
 
