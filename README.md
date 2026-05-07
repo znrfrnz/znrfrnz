@@ -9,5 +9,4 @@ bs information technology · pup manila · 2nd year
 
 ---
 
-![visitors](https://visitcount.itsvg.in/api?id=znrfrnz&label=visitors&color=0&icon=0&pretty=false)
-![GitHub User's stars](https://img.shields.io/github/stars/znrfrnz?style=flat-square&label=stars&color=gray)
+[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fznrfrnz&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true)](https://github.com/znrfrnz)
